@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+grud-baseline/data/raw/
+grud-baseline/data/processed/
+results/
+*.pyc
